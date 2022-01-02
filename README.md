@@ -9,6 +9,5 @@ JavaScript, React,CSS, HTML,bootstrap, will be put to maximum use
 
 - 📫 How to reach me: ...
     tarekahmed1568@gmail.com
-    linkedin.com/in/tarek-ahmed-iti
-    codepen.io/marstarek
-
+https://www.linkedin.com/in/tarek-ahmed-iti/ 
+https://codepen.io/marstarek
