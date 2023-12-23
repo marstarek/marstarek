@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">A Front End Developer😄 and ITI  graduate want to use experience⚡ and passion for building high-performance web applications, with strong experience and knowledge of OOP JavaScript, React,CSS, HTML,bootstrap, will be put to maximum use</h3>
+<h3 align="center">Skilled Front-end Developer experienced in developing and
+designing, maintaining front-end web applications and building
+responsive web design. Proficient with HTML, CSS, and JS
+Frameworks such as React.js, Next.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
