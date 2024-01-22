@@ -3,6 +3,10 @@
 designing, maintaining front-end web applications and building
 responsive web design. Proficient with HTML, CSS, and JS
 Frameworks such as React.js, Next.js.</h3>
+tarekahmed1568@gmail.com 
+linkedin.com/in/tarek-ahmed-iti  
+https://github.com/marstarek 
+https://jealous-beef.surge.sh 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
