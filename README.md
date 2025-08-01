@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">Skilled Front-end Developer experienced in developing and
-designing, maintaining front-end web applications and building
-responsive web design. Proficient with HTML, CSS, and JS
-Frameworks such as React.js, Next.js.</h3>
+<h3 align="center">Front-End Developer with strong experience building interactive, high-performance, and visually appealing web applications. Proficient in modern front-end technologies such as HTML5, CSS3, JavaScript, React.js, and Next.js. Adept at creating responsive designs that provide seamless user experiences across devices. Strong collaborator with cross-functional teams and a problem-solving mindset.</h3>
 tarekahmed1568@gmail.com 
 linkedin.com/in/tarek-ahmed-iti  
 https://github.com/marstarek 
