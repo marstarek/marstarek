@@ -3,8 +3,7 @@
 tarekahmed1568@gmail.com 
 linkedin.com/in/tarek-ahmed-iti  
 https://github.com/marstarek 
-[https://jealous-beef.surge.sh ](https://tarek-ahmed.vercel.app/)
-
+https://tarek-ahmed.vercel.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/marstarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/marstarek" height="30" width="40" /></a>
